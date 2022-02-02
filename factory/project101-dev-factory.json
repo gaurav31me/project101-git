@@ -1,0 +1,9 @@
+{
+	"name": "project101-dev-factory",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "547fc67d-e8a5-4507-bd5e-8a0916158e4b",
+		"tenantId": "899d5a70-db4a-4a54-a4c9-54ec82467a83"
+	}
+}
